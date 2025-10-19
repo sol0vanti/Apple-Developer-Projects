@@ -1,1 +1,9 @@
-Weather Forecast App
+<div align="center" style="margin: 30px;">
+<h1>Weather Forecast</h1>
+
+**Weather Forecast** is an app which shows you weather for entiry week.
+</div>
+<h2>👀 App Preview (19.10.2025)</h2>
+<div align="center" style="margin: 30px;">
+  <img height="400" src="https://github.com/skxnz/GitHub-Finder/blob/main/AppPreview/FirstScreen.png" alt="Start screen">
+</div>
